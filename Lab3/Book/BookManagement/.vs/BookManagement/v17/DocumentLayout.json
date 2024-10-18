@@ -1,0 +1,344 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DotNet\\Lab3\\Book\\BookManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F8D68A-E6CA-4D62-972B-378CAA0A1BC3}|BookManagement\\BookManagement.csproj|c:\\dotnet\\lab3\\book\\bookmanagement\\bookmanagement\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2F8D68A-E6CA-4D62-972B-378CAA0A1BC3}|BookManagement\\BookManagement.csproj|solutionrelative:bookmanagement\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6CF14B-064C-4449-A3E9-B88D1082AEED}|Application\\Application.csproj|c:\\dotnet\\lab3\\book\\bookmanagement\\application\\use cases\\comandhandlers\\updatebookcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6CF14B-064C-4449-A3E9-B88D1082AEED}|Application\\Application.csproj|solutionrelative:application\\use cases\\comandhandlers\\updatebookcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6CF14B-064C-4449-A3E9-B88D1082AEED}|Application\\Application.csproj|c:\\dotnet\\lab3\\book\\bookmanagement\\application\\use cases\\commands\\updatebookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6CF14B-064C-4449-A3E9-B88D1082AEED}|Application\\Application.csproj|solutionrelative:application\\use cases\\commands\\updatebookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9280A516-F2C3-4F17-A3E0-59A265FB6C16}|Infrastructure\\Infrastructure.csproj|c:\\dotnet\\lab3\\book\\bookmanagement\\infrastructure\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9280A516-F2C3-4F17-A3E0-59A265FB6C16}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6CF14B-064C-4449-A3E9-B88D1082AEED}|Application\\Application.csproj|c:\\dotnet\\lab3\\book\\bookmanagement\\application\\use cases\\queryhandlers\\getallbooksqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6CF14B-064C-4449-A3E9-B88D1082AEED}|Application\\Application.csproj|solutionrelative:application\\use cases\\queryhandlers\\getallbooksqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EDCC369-96AD-4A67-AA0E-2FA136463AC5}|Domain\\Domain.csproj|c:\\dotnet\\lab3\\book\\bookmanagement\\domain\\repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EDCC369-96AD-4A67-AA0E-2FA136463AC5}|Domain\\Domain.csproj|solutionrelative:domain\\repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6CF14B-064C-4449-A3E9-B88D1082AEED}|Application\\Application.csproj|c:\\dotnet\\lab3\\book\\bookmanagement\\application\\use cases\\queries\\getallbooksquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6CF14B-064C-4449-A3E9-B88D1082AEED}|Application\\Application.csproj|solutionrelative:application\\use cases\\queries\\getallbooksquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6CF14B-064C-4449-A3E9-B88D1082AEED}|Application\\Application.csproj|c:\\dotnet\\lab3\\book\\bookmanagement\\application\\dtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6CF14B-064C-4449-A3E9-B88D1082AEED}|Application\\Application.csproj|solutionrelative:application\\dtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6CF14B-064C-4449-A3E9-B88D1082AEED}|Application\\Application.csproj|c:\\dotnet\\lab3\\book\\bookmanagement\\application\\use cases\\comandhandlers\\deletebookbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6CF14B-064C-4449-A3E9-B88D1082AEED}|Application\\Application.csproj|solutionrelative:application\\use cases\\comandhandlers\\deletebookbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6CF14B-064C-4449-A3E9-B88D1082AEED}|Application\\Application.csproj|c:\\dotnet\\lab3\\book\\bookmanagement\\application\\use cases\\commands\\deletebookbyidcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6CF14B-064C-4449-A3E9-B88D1082AEED}|Application\\Application.csproj|solutionrelative:application\\use cases\\commands\\deletebookbyidcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6CF14B-064C-4449-A3E9-B88D1082AEED}|Application\\Application.csproj|c:\\dotnet\\lab3\\book\\bookmanagement\\application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6CF14B-064C-4449-A3E9-B88D1082AEED}|Application\\Application.csproj|solutionrelative:application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9280A516-F2C3-4F17-A3E0-59A265FB6C16}|Infrastructure\\Infrastructure.csproj|c:\\dotnet\\lab3\\book\\bookmanagement\\infrastructure\\depedencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9280A516-F2C3-4F17-A3E0-59A265FB6C16}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\depedencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6CF14B-064C-4449-A3E9-B88D1082AEED}|Application\\Application.csproj|c:\\dotnet\\lab3\\book\\bookmanagement\\application\\utils\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6CF14B-064C-4449-A3E9-B88D1082AEED}|Application\\Application.csproj|solutionrelative:application\\utils\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6CF14B-064C-4449-A3E9-B88D1082AEED}|Application\\Application.csproj|c:\\dotnet\\lab3\\book\\bookmanagement\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CC6CF14B-064C-4449-A3E9-B88D1082AEED}|Application\\Application.csproj|solutionrelative:application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\DotNet\\Lab3\\Book\\BookManagement\\Infrastructure\\Migrations\\20241015113134_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\Migrations\\20241015113134_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F8D68A-E6CA-4D62-972B-378CAA0A1BC3}|BookManagement\\BookManagement.csproj|c:\\dotnet\\lab3\\book\\bookmanagement\\bookmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D2F8D68A-E6CA-4D62-972B-378CAA0A1BC3}|BookManagement\\BookManagement.csproj|solutionrelative:bookmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F8D68A-E6CA-4D62-972B-378CAA0A1BC3}|BookManagement\\BookManagement.csproj|c:\\dotnet\\lab3\\book\\bookmanagement\\bookmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2F8D68A-E6CA-4D62-972B-378CAA0A1BC3}|BookManagement\\BookManagement.csproj|solutionrelative:bookmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9280A516-F2C3-4F17-A3E0-59A265FB6C16}|Infrastructure\\Infrastructure.csproj|c:\\dotnet\\lab3\\book\\bookmanagement\\infrastructure\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9280A516-F2C3-4F17-A3E0-59A265FB6C16}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9280A516-F2C3-4F17-A3E0-59A265FB6C16}|Infrastructure\\Infrastructure.csproj|c:\\dotnet\\lab3\\book\\bookmanagement\\infrastructure\\migrations\\20241015113334_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9280A516-F2C3-4F17-A3E0-59A265FB6C16}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\20241015113334_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateBookCommandHandler.cs",
+              "DocumentMoniker": "C:\\DotNet\\Lab3\\Book\\BookManagement\\Application\\Use Cases\\ComandHandlers\\UpdateBookCommandHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Use Cases\\ComandHandlers\\UpdateBookCommandHandler.cs",
+              "ToolTip": "C:\\DotNet\\Lab3\\Book\\BookManagement\\Application\\Use Cases\\ComandHandlers\\UpdateBookCommandHandler.cs",
+              "RelativeToolTip": "Application\\Use Cases\\ComandHandlers\\UpdateBookCommandHandler.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwBoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T15:39:30.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateBookCommand.cs",
+              "DocumentMoniker": "C:\\DotNet\\Lab3\\Book\\BookManagement\\Application\\Use Cases\\Commands\\UpdateBookCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Use Cases\\Commands\\UpdateBookCommand.cs",
+              "ToolTip": "C:\\DotNet\\Lab3\\Book\\BookManagement\\Application\\Use Cases\\Commands\\UpdateBookCommand.cs",
+              "RelativeToolTip": "Application\\Use Cases\\Commands\\UpdateBookCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T15:38:35.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetAllBooksQueryHandler.cs",
+              "DocumentMoniker": "C:\\DotNet\\Lab3\\Book\\BookManagement\\Application\\Use Cases\\QueryHandlers\\GetAllBooksQueryHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Use Cases\\QueryHandlers\\GetAllBooksQueryHandler.cs",
+              "ToolTip": "C:\\DotNet\\Lab3\\Book\\BookManagement\\Application\\Use Cases\\QueryHandlers\\GetAllBooksQueryHandler.cs",
+              "RelativeToolTip": "Application\\Use Cases\\QueryHandlers\\GetAllBooksQueryHandler.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T15:35:48.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\DotNet\\Lab3\\Book\\BookManagement\\BookManagement\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "BookManagement\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\DotNet\\Lab3\\Book\\BookManagement\\BookManagement\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "BookManagement\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAIwDgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T12:46:13.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookDto.cs",
+              "DocumentMoniker": "C:\\DotNet\\Lab3\\Book\\BookManagement\\Application\\DTOs\\BookDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\BookDto.cs",
+              "ToolTip": "C:\\DotNet\\Lab3\\Book\\BookManagement\\Application\\DTOs\\BookDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\BookDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T14:49:15.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "C:\\DotNet\\Lab3\\Book\\BookManagement\\Infrastructure\\Repositories\\BookRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\BookRepository.cs",
+              "ToolTip": "C:\\DotNet\\Lab3\\Book\\BookManagement\\Infrastructure\\Repositories\\BookRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\BookRepository.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAA7wDMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T12:25:27.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetAllBooksQuery.cs",
+              "DocumentMoniker": "C:\\DotNet\\Lab3\\Book\\BookManagement\\Application\\Use Cases\\Queries\\GetAllBooksQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Use Cases\\Queries\\GetAllBooksQuery.cs",
+              "ToolTip": "C:\\DotNet\\Lab3\\Book\\BookManagement\\Application\\Use Cases\\Queries\\GetAllBooksQuery.cs",
+              "RelativeToolTip": "Application\\Use Cases\\Queries\\GetAllBooksQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T15:34:21.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "C:\\DotNet\\Lab3\\Book\\BookManagement\\Domain\\Repositories\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Repositories\\IBookRepository.cs",
+              "ToolTip": "C:\\DotNet\\Lab3\\Book\\BookManagement\\Domain\\Repositories\\IBookRepository.cs",
+              "RelativeToolTip": "Domain\\Repositories\\IBookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T11:27:37.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DeleteBookByIDHandler.cs",
+              "DocumentMoniker": "C:\\DotNet\\Lab3\\Book\\BookManagement\\Application\\Use Cases\\ComandHandlers\\DeleteBookByIDHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Use Cases\\ComandHandlers\\DeleteBookByIDHandler.cs",
+              "ToolTip": "C:\\DotNet\\Lab3\\Book\\BookManagement\\Application\\Use Cases\\ComandHandlers\\DeleteBookByIDHandler.cs",
+              "RelativeToolTip": "Application\\Use Cases\\ComandHandlers\\DeleteBookByIDHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T14:48:38.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DeleteBookByIdCommand.cs",
+              "DocumentMoniker": "C:\\DotNet\\Lab3\\Book\\BookManagement\\Application\\Use Cases\\Commands\\DeleteBookByIdCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Use Cases\\Commands\\DeleteBookByIdCommand.cs",
+              "ToolTip": "C:\\DotNet\\Lab3\\Book\\BookManagement\\Application\\Use Cases\\Commands\\DeleteBookByIdCommand.cs",
+              "RelativeToolTip": "Application\\Use Cases\\Commands\\DeleteBookByIdCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T14:46:24.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\DotNet\\Lab3\\Book\\BookManagement\\Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Application\\DependencyInjection.cs",
+              "ToolTip": "C:\\DotNet\\Lab3\\Book\\BookManagement\\Application\\DependencyInjection.cs",
+              "RelativeToolTip": "Application\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T11:30:53.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DepedencyInjection.cs",
+              "DocumentMoniker": "C:\\DotNet\\Lab3\\Book\\BookManagement\\Infrastructure\\DepedencyInjection.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\DepedencyInjection.cs",
+              "ToolTip": "C:\\DotNet\\Lab3\\Book\\BookManagement\\Infrastructure\\DepedencyInjection.cs",
+              "RelativeToolTip": "Infrastructure\\DepedencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T12:07:09.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\DotNet\\Lab3\\Book\\BookManagement\\Application\\Utils\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Application\\Utils\\MappingProfile.cs",
+              "ToolTip": "C:\\DotNet\\Lab3\\Book\\BookManagement\\Application\\Utils\\MappingProfile.cs",
+              "RelativeToolTip": "Application\\Utils\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T12:42:51.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Application.csproj",
+              "DocumentMoniker": "C:\\DotNet\\Lab3\\Book\\BookManagement\\Application\\Application.csproj",
+              "RelativeDocumentMoniker": "Application\\Application.csproj",
+              "ToolTip": "C:\\DotNet\\Lab3\\Book\\BookManagement\\Application\\Application.csproj",
+              "RelativeToolTip": "Application\\Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-15T11:36:04.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20241015113334_InitialCreate.cs",
+              "DocumentMoniker": "C:\\DotNet\\Lab3\\Book\\BookManagement\\Infrastructure\\Migrations\\20241015113334_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20241015113334_InitialCreate.cs",
+              "ToolTip": "C:\\DotNet\\Lab3\\Book\\BookManagement\\Infrastructure\\Migrations\\20241015113334_InitialCreate.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20241015113334_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T11:33:34.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20241015113134_InitialCreate.cs",
+              "DocumentMoniker": "C:\\DotNet\\Lab3\\Book\\BookManagement\\Infrastructure\\Migrations\\20241015113134_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20241015113134_InitialCreate.cs",
+              "ToolTip": "C:\\DotNet\\Lab3\\Book\\BookManagement\\Infrastructure\\Migrations\\20241015113134_InitialCreate.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20241015113134_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T11:31:34.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\DotNet\\Lab3\\Book\\BookManagement\\BookManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "BookManagement\\appsettings.json",
+              "ToolTip": "C:\\DotNet\\Lab3\\Book\\BookManagement\\BookManagement\\appsettings.json",
+              "RelativeToolTip": "BookManagement\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-14T12:37:16.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DotNet\\Lab3\\Book\\BookManagement\\BookManagement\\Program.cs",
+              "RelativeDocumentMoniker": "BookManagement\\Program.cs",
+              "ToolTip": "C:\\DotNet\\Lab3\\Book\\BookManagement\\BookManagement\\Program.cs",
+              "RelativeToolTip": "BookManagement\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T12:34:25.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\DotNet\\Lab3\\Book\\BookManagement\\Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\DotNet\\Lab3\\Book\\BookManagement\\Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwAUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T12:13:37.545Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

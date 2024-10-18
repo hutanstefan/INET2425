@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DotNet\\Lab2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E5FC46A-C67B-485D-BC01-C14FD38EA54C}|Lab2.csproj|c:\\dotnet\\lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E5FC46A-C67B-485D-BC01-C14FD38EA54C}|Lab2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E5FC46A-C67B-485D-BC01-C14FD38EA54C}|Lab2.csproj|c:\\dotnet\\lab2\\business\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E5FC46A-C67B-485D-BC01-C14FD38EA54C}|Lab2.csproj|solutionrelative:business\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E5FC46A-C67B-485D-BC01-C14FD38EA54C}|Lab2.csproj|c:\\dotnet\\lab2\\business\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E5FC46A-C67B-485D-BC01-C14FD38EA54C}|Lab2.csproj|solutionrelative:business\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E5FC46A-C67B-485D-BC01-C14FD38EA54C}|Lab2.csproj|c:\\dotnet\\lab2\\business\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E5FC46A-C67B-485D-BC01-C14FD38EA54C}|Lab2.csproj|solutionrelative:business\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E5FC46A-C67B-485D-BC01-C14FD38EA54C}|Lab2.csproj|c:\\dotnet\\lab2\\business\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E5FC46A-C67B-485D-BC01-C14FD38EA54C}|Lab2.csproj|solutionrelative:business\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E5FC46A-C67B-485D-BC01-C14FD38EA54C}|Lab2.csproj|c:\\dotnet\\lab2\\interface\\imoveble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E5FC46A-C67B-485D-BC01-C14FD38EA54C}|Lab2.csproj|solutionrelative:interface\\imoveble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bird.cs",
+              "DocumentMoniker": "C:\\DotNet\\Lab2\\Business\\Bird.cs",
+              "RelativeDocumentMoniker": "Business\\Bird.cs",
+              "ToolTip": "C:\\DotNet\\Lab2\\Business\\Bird.cs",
+              "RelativeToolTip": "Business\\Bird.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T11:43:29.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "C:\\DotNet\\Lab2\\Business\\Cat.cs",
+              "RelativeDocumentMoniker": "Business\\Cat.cs",
+              "ToolTip": "C:\\DotNet\\Lab2\\Business\\Cat.cs",
+              "RelativeToolTip": "Business\\Cat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T11:43:22.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\DotNet\\Lab2\\Business\\Dog.cs",
+              "RelativeDocumentMoniker": "Business\\Dog.cs",
+              "ToolTip": "C:\\DotNet\\Lab2\\Business\\Dog.cs",
+              "RelativeToolTip": "Business\\Dog.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T11:34:19.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\DotNet\\Lab2\\Business\\Animal.cs",
+              "RelativeDocumentMoniker": "Business\\Animal.cs",
+              "ToolTip": "C:\\DotNet\\Lab2\\Business\\Animal.cs",
+              "RelativeToolTip": "Business\\Animal.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T11:23:17.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IMoveble.cs",
+              "DocumentMoniker": "C:\\DotNet\\Lab2\\Interface\\IMoveble.cs",
+              "RelativeDocumentMoniker": "Interface\\IMoveble.cs",
+              "ToolTip": "C:\\DotNet\\Lab2\\Interface\\IMoveble.cs",
+              "RelativeToolTip": "Interface\\IMoveble.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T11:16:54.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DotNet\\Lab2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\DotNet\\Lab2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T11:09:54.893Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
